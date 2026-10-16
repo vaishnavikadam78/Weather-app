@@ -1,0 +1,14 @@
+# Sensitive API Keys / Secrets
+config.js
+.env
+
+# Text Editor / IDE folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Operating System temporary files
+Thumbs.db
+.DS_Store
